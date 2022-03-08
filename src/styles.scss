@@ -1,0 +1,13 @@
+@import '~ngx-toastr/toastr';
+
+$body-color: red;
+
+body {
+  color: $body-color;
+  margin: 20px;
+  padding: 20px;
+  font-family: sans-serif;
+  background-image: url("images/cat2.jpg");
+  background-size: cover;
+  height: 100%;
+}
